@@ -1,0 +1,3 @@
+[submodule "Assets/UnityCommon"]
+	path = Assets/UnityCommon
+	url = https://github.com/DiogoDeAndrade/UnityCommon
